@@ -4,7 +4,8 @@ An Android app that is designed to help visually impaired users navigate through
 
 ## Objective
 
-- To enter the world of Mobile Development and familiarize myself with it 
+- To enter the world of Mobile Development and find what I like and dislike
+- To familiarize myself with a cloud service 
 
 ## Functions
 
